@@ -1,7 +1,7 @@
 # Análisis de transición: Social Commerce → Ecommerce
 
 Este análisis de datos fue realizado para mi ecommerce Nekoecho que inició
-como social commerce en Instagram en 2024 y que recientemente migré a
+como social commerce en Instagram en 2023 y que recientemente migré a
 página web. El proyecto cubre aproximadamente 1,305 envíos registrados
 durante 30 meses (abril 2024 – septiembre 2026).
 
